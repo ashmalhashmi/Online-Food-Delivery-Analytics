@@ -1,6 +1,13 @@
 # Online-Food-Delivery-Analytics
 Fasso:Fast Food Online Delivery SQL Project
 Embracing a problem-solving mindset, I delved into 𝗯͟𝗿͟𝗲͟𝗮͟𝗸͟𝗶͟𝗻͟𝗴͟ ͟𝗱͟𝗼͟𝘄͟𝗻͟ ͟𝗰͟𝗵͟𝗮͟𝗹͟𝗹͟𝗲͟𝗻͟𝗴͟𝗲͟𝘀͟ ͟𝗶͟𝗻͟𝘁͟𝗼͟ ͟𝗺͟𝘂͟𝗹͟𝘁͟𝗶͟𝗽͟𝗹͟𝗲͟ ͟𝘀͟𝘁͟𝗲͟𝗽͟𝘀͟. From sub-queries to leveraging joins, CTEs, and window functions, it wasn't just about queries; it was a holistic approach to data!
+# Tasks:
+1) Connect the data source
+2) Understand the business requirment and align my data analyst understanding with the business requirment
+3) Ensure the data consistency by using sql advance data cleaning functions like coalesce helps to managing nulls, empty records
+4) Convert the data type(using cast function) where required to get the desired metris
+5) Joins the table through joins and answer the questions asked by the stakeholder to do data driven business insights
+   
 
 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗨𝘀𝗲𝗱:
 🤝 Joins: Explored the versatility of joins for seamless data integration.
